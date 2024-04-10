@@ -7,6 +7,7 @@ This dataset provides semantic segmentation labels for 9 different classes. It i
 |   |   |
 |---|---|
 | Website | https://github.com/akharroubi/Rail3D |
+| Publication | https://doi.org/10.3390/infrastructures9040071 |
 | Sensor | various |
 | Length | 2.1, 1.6, 2.0 km |
 | License | various |
@@ -56,6 +57,7 @@ The following classes have been labelled: catenary mast, tension rod, signal, re
 |   |   |
 |---|---|
 | Website | https://doi.org/10.4121/fa259c52-a585-420c-8a0c-af5e91518e29.v1|
+| Publication | https://doi.org/10.3390/s23010222 |
 | Sensor | Velodyne VLP-16 |
 | Length | 6.5/2.9 km |
 | License | CC BY-NC 4.0 |
@@ -70,7 +72,7 @@ A huge multi-sensor dataset from Germany.
 
 |   |   |
 |---|---|
-| Website | https://doi.org/10.57806/9mv146r0|
+| Website | https://doi.org/10.57806/9mv146r0 |
 | Sensor | Multi-sensor (images/LiDaRs) |
 | License | CC0 1.0 Universal (Annotation) and CC BY-SA 3.0 de (Sensor data) |
 | Year| 2023-01-01 |
