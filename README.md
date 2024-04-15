@@ -45,6 +45,7 @@ High resolution scans of catenary arches. Each of the samples was manually label
 |   |   |
 |---|---|
 | Website | https://doi.org/10.4121/17048816.v1 |
+| Publication | https://doi.org/10.3390/s23010222 |
 | Sensor | Trimble TX8 laser scanner using the level 2 operation mode |
 | License | CC BY 4.0 |
 | Year | 2022-03-04 |
@@ -57,7 +58,6 @@ The following classes have been labelled: catenary mast, tension rod, signal, re
 |   |   |
 |---|---|
 | Website | https://doi.org/10.4121/fa259c52-a585-420c-8a0c-af5e91518e29.v1|
-| Publication | https://doi.org/10.3390/s23010222 |
 | Sensor | Velodyne VLP-16 |
 | Length | 6.5/2.9 km |
 | License | CC BY-NC 4.0 |
