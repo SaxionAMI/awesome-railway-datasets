@@ -1,6 +1,20 @@
 # Awesome railway datasets [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 Curated list of publically available railway related datasets captured with point cloud data. Feel free to contribute by adding a pull request.
 
+## RailPC 
+This dataset provides semantic segmentation labels for 16 different classes and contains over 3 billion points.
+
+|   |   |
+|---|---|
+| Website | https://github.com/NNU-GISA/GISA-RailPC |
+| Publication | https://doi.org/10.1049/cit2.12349 |
+| Sensor | HiScan-C |
+| Length | 25 km |
+| License | ?? |
+| Year | 2024-06-17 |
+
+**Note:** Requires sending e-mail to obtain dataset
+
 ## Rail3D
 This dataset provides semantic segmentation labels for 9 different classes. It is based on three existing datasets, including the [Hungarian MLS dataset](#hungarian-mls-point-clouds-of-railroad-environment-and-annotated-ground-truth-data) and the [French SNCF dataset](#nuage-de-points-3d-des-infrastructures-ferroviaires)
 
