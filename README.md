@@ -35,6 +35,7 @@ This dataset provides semantic segmentation labels for 11 different classes. Thr
 |   |   |
 |---|---|
 | Website | https://github.com/WHU-USI3DV/WHU-Railway3D |
+| Publication | https://doi.org/10.1109/TITS.2024.3469546 |
 | Sensor | Optech Lynx/HiScan-Z/HiRail rMMS |
 | Length | 10.7/10.6/10.4 km |
 | License | CC BY-NC-SA |
