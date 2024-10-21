@@ -88,6 +88,7 @@ A huge multi-sensor dataset from Germany.
 |   |   |
 |---|---|
 | Website | https://doi.org/10.57806/9mv146r0 |
+| Publication | https://doi.org/10.1109/ICRAE59816.2023.10458449 |
 | Sensor | Multi-sensor (images/LiDaRs) |
 | License | CC0 1.0 Universal (Annotation) and CC BY-SA 3.0 de (Sensor data) |
 | Year| 2023-01-01 |
